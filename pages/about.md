@@ -8,16 +8,6 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+I’m Milap Dave. **Front end developer in Rajkot**, Gujarat. I love to create beautiful, intuitive and functional design using the latest techniques with [HTML](https://html.com/) / CSS /[SASS](http://sass-lang.com/),  jQuery. I love everything that is digital, in my spare time I like to experiments and tutorials or freebies for designers and developers.
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
-
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
-
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
-
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
-
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
-
-![Fern in Hand](/static/img/fern-in-hand.jpeg "Fern in Hand")
+[EMAIL](mailto:dave.milap3@gmail.com?Subject=Hello%20Milap) [GITHUB](https://github.com/milapdave) [LINKEDIN](https://www.linkedin.com/in/milapdave/) [MEDIUM](https://medium.com/@milapdave) [TWITTER](https://twitter.com/milap_dave)
