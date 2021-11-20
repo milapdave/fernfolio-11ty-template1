@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: ""
-metaDescription: This page is all about me
+metaDescription: I’m Milap Dave. Front end developer in Rajkot, Gujarat.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
